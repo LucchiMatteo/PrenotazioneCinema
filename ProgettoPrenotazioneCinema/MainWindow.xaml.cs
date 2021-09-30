@@ -28,7 +28,7 @@ namespace ProgettoPrenotazioneCinema
         private void btnCassa1_Click(object sender, RoutedEventArgs e)
         {
             ell1.Visibility = Visibility.Visible;
-            ell1.Fill = System.Windows.Media.Brushes.Red;
+            ell1.Fill = System.Windows.Media.Brushes.Green;
         }
     }
 }
